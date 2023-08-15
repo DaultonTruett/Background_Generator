@@ -1,1 +1,1 @@
-# background-generator
+Small program that uses HTML, CSS, and JavaScript that allows a user to dynamically generate background color gradients. The progam displays the RGB values of the generated backgorund to allow the user to copy that color scheme for their own personal use. 
